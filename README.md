@@ -2,7 +2,7 @@
 
 ## Why???
 
-Read the blog post [here](https://www.trek10.com/blog/making-ci-easier-with-gitlab/) to get the background.
+Read the blog post [here](https://sethbergman.tech/gitlab-pipeline-config-examples/) to get the background.
 
 ## What it does
 
